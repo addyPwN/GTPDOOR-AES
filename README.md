@@ -14,9 +14,17 @@ The project includes:
 
 ## 📷 Screenshots
 
-> Server with malicious service: ![image](https://github.com/user-attachments/assets/7126b41a-a6b4-4e7a-9135-f20e28d3bd36)
-> Client receiving output: ![image](https://github.com/user-attachments/assets/5d97f186-374b-4cca-913a-2d3454e68dc0)
-> AES Encrypted Traffic: ![aes_encrypted_traffic](https://github.com/user-attachments/assets/c38166b8-4715-4d3f-9fd5-da6219bbcc89)
+> Server with malicious service: 
+
+![image](https://github.com/user-attachments/assets/7126b41a-a6b4-4e7a-9135-f20e28d3bd36)
+
+> Client receiving output:
+
+![image](https://github.com/user-attachments/assets/5d97f186-374b-4cca-913a-2d3454e68dc0)
+
+> AES Encrypted Traffic: 
+
+![aes_encrypted_traffic](https://github.com/user-attachments/assets/c38166b8-4715-4d3f-9fd5-da6219bbcc89)
  
 ---
 
