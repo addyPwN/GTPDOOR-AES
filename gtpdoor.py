@@ -66,7 +66,7 @@ def create_gtp_response(payload):
         return None
         
     # GTP header (8 bytes) - modified to indicate response
-    gtp_header = b"\x32\x02\x00\x00\x00\x00\x00\x00"  # Changed second byte to 0x02 for response
+    gtp_header = b"\x32\x02\x00\x00\x00\x00\x00\x00"
     return gtp_header + encrypted_payload.encode('utf-8')
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
