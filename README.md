@@ -36,7 +36,7 @@ The project includes:
 - 📁 **Auto-captures PCAPs** for use with Suricata, Zeek, or ML models
 - ⚡ Supports **packet-based C2**, not application-layer (no TCP/HTTP)
 
-## 🧪 Use Case: Telecom NDR / Detection Engineering
+## 🧪 Use Case: Detection Engineering
 
 This simulation is ideal for:
 - Testing **telecom-aware network detection rules**
