@@ -56,6 +56,17 @@ Run inside your srsRAN/Open5GS Docker container:
 _Python Requirements_:
 ```pip3 install pycryptodome==3.19.0```
 
+### 2. Launch the simulator
+Run the simulator on the attacker machine.
+
+```python3 simulator.py```
+
+_Python Requirements_:
+```pip3 install pycryptodome==3.19.0```
+
+### 3. Collect the logs
+The generated pcap will be stored as ```/tmp/gtpdoor_session_<timestamp>.pcap```
+
 ## 🧠 Inspired by…
 
 This simulation was inspired by public threat intel on:
